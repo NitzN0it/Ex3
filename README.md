@@ -8,3 +8,4 @@ Weighted Directed Graph (Python)
   Load and save from json
  
 ### plot using matplotlib
+### Created by Nitzan Namer
